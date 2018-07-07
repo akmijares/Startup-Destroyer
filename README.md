@@ -19,7 +19,7 @@ If you prefer to not deal with this stuff, do not run and/or modify this script.
 How to Run
 ----------
 
-Set powershell to be able to run scripts (-SetExecutionPolicy "Unrestricted" [While on Admin])
+Set powershell to be able to run scripts (-SetExecutionPolicy "Unrestricted"). Make sure that you are admin for this.
 Call the file name, right click the file and selecting Run with Powershell or opening Powershell ISE and run it from there
 
 License
