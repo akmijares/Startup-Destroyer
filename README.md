@@ -26,4 +26,4 @@ Call the file name, right click the file and selecting Run with Powershell or op
 License
 -------
 
-This is under the MIT License. See the [LICENSE] {License} file for more info
+This is under the MIT License. See the [LICENSE](License) file for more info
