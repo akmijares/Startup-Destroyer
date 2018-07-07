@@ -4,6 +4,7 @@ Main Summary
 ------------
 
 This is a powershell script that creates removes the important startup files and renders the next reboot useless.
+This has been tested on Windows XP+ and can run on Windows Server 2012
 
 WARNING / DISCLAIMER
 --------------------
